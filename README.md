@@ -9,7 +9,11 @@ Building a Regression Model that can Provide a Home Price Estimate based on home
 * How rich or poor the area is
 * How many students there are per teacher in local schools etc
 
-<img src=https://i.imgur.com/WfUSSP7.png height=350>
+<img src=https://i.imgur.com/WfUSSP7.png height=350><br><br>
+<em style='font-weight: bold;'> ⭐ Luckily we have got our Final Model's Accuracy a little good --><br>
+• Accuracy on Training data : 79%<br>
+• Accuracy on Testing data : 74%
+</em>
 
 **Reference:**
 
